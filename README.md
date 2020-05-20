@@ -8,7 +8,6 @@ CrossBERT: a Triplet Neural Architecture for Ranking Entity Properties. Jarana M
 **Please cite our SIGIR'20 paper if you use our codes. Thanks!** 
 
 ## Environment Settings
-We use Keras with Theano as the backend. 
 - torch==1.1.0
 - pytorch-pretrained-bert==0.6.2
 - tqdm
