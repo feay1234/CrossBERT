@@ -13,3 +13,4 @@ We use Keras with Theano as the backend.
 - pytorch-pretrained-bert==0.6.2
 - tqdm
 - pytools==2018.5.2
+- pyntcireval
