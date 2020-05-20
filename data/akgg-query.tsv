@@ -1,0 +1,229 @@
+query	1	benchmarking have	action
+query	2	bodybuilding take	action
+query	3	brainstorming brainstorm	action
+query	4	chain smoking start	action
+query	5	funding get funding	action
+query	6	hair coloring bleach hair back to brown	action
+query	7	hit and run stop at the scene of an accident	action
+query	8	language acquisition suggest a foreign language thats easy to learn	action
+query	9	mediation help you come up with possible solutions	action
+query	10	pull up do any aerobic physical activity	action
+query	11	spoofing attack know who do the spoof	action
+query	12	spray painting use on fabric	action
+query	13	translation know japanese recipe ingredient translation	action
+query	14	all about my mother forget	movie
+query	15	back to the future remember	movie
+query	16	braveheart love that movie	movie
+query	17	give me five give fives	musicrecording
+query	18	on the road follow	book
+query	19	our daughter leave	movie
+query	20	run fast happen	musicrecording
+query	21	shakespeares plays prepare for a shakespeare play	creativework
+query	22	showtime choose	movie
+query	23	so young abandon	movie
+query	24	striptease obsess	movie
+query	25	take on me forget	musicrecording
+query	26	terms of endearment come	movie
+query	27	the devil wears prada watch the devil wears prada	movie
+query	28	the wizard of oz watch full episode of robot chicken	movie
+query	29	the incredible hulk watch movie with english subtitle	movie
+query	30	the paper make love with a girl	movie
+query	31	the pyramid reclaim	movie
+query	32	the sixth sense see the spirits of people who have died	movie
+query	33	the tall man meet a good woman	movie
+query	34	today lose	tvseries
+query	35	trust me make trust	movie
+query	36	porco rosso watch porco rosso ( 1992 )	movie
+query	37	prom night love the colors of prom	movie
+query	38	knowing find the name of a song	movie
+query	39	krrish see	movie
+query	40	law & order: special victims unit win emmy	tvseries
+query	41	lost season 3 release on dvd	tvseries
+query	42	mary poppins watch this video	movie
+query	43	baby shower give	event
+query	44	chernobyl disaster happen	event
+query	45	formula one become a f1 driver	sportsevent
+query	46	graduation attend ceremony	educationevent
+query	47	honeymoon recommend	event
+query	48	immigration apply for citizenship	event
+query	49	islamic terrorism issue indictment	event
+query	50	live aid raise dollars	event
+query	51	the exodus believe	event
+query	52	world war ii win	event
+query	53	flood pevent	event
+query	54	anti-gravity create an anti gravity propulsion system	intangible
+query	55	html embed a sound in a html page	computerlanguage
+query	56	php debug	computerlanguage
+query	57	english grammar teach	intangible
+query	58	free education apply	intangible
+query	59	job satisfaction get	intangible
+query	60	belief say	intangible
+query	61	tagalog language teach	language
+query	62	environmentalism support environmentalism and climate change awareness	intangible
+query	63	bibliography write the bibliography	intangible
+query	64	email box send	intangible
+query	65	google maps prepare	service
+query	66	property insurance receive	financialproduct
+query	67	voip phone use	service
+query	68	separation of church and state allow	intangible
+query	69	indian institute of technology joint entrance examination pass	intangible
+query	70	history of television watch	intangible
+query	71	acupuncture work	medicalprocedure
+query	72	apgar score improve	medicalintangible
+query	73	asthma relieve	medicalcondition
+query	74	back pain treat	medicalcondition
+query	75	brain develop	anatomicalsystem
+query	76	carpal tunnel syndrome suffer	medicalcondition
+query	77	dna identify	anatomicalsystem
+query	78	hepatitis c diagnose	medicalcondition
+query	79	insomnia cause	medicalcondition
+query	80	kidney donate	anatomicalsystem
+query	81	naproxen increase	drug
+query	82	pubis break	anatomicalsystem
+query	83	respiratory system evaluate	anatomicalsystem
+query	84	self-esteem boost	medicalintangible
+query	85	shock cause	medicalcondition
+query	86	skin care	anatomicalsystem
+query	87	speech disorder overcome	medicalcondition
+query	88	spinal muscular atrophy reduce	medicalcondition
+query	89	testosterone increase	substance
+query	90	thyroid hormone produce	substance
+query	91	trichinosis stop	parasiticdisease
+query	92	urinary incontinence prevent	medicalcondition
+query	93	blood type donate	medicalintangible
+query	94	adidas wear	corporation
+query	95	aol use	corporation
+query	96	bacardi drink	corporation
+query	97	big oil sell	corporation
+query	98	bp own	corporation
+query	99	carolina panthers play	sportsorganization
+query	100	chicago white sox win	sportsorganization
+query	101	espn watch	broadcastchannel
+query	102	fedex call	corporation
+query	103	fifa watch	sportsorganization
+query	104	ford motor company sell	corporation
+query	105	ibm join	corporation
+query	106	isuzu motors build	corporation
+query	107	liberal party of canada support	governmentorganization
+query	108	little league baseball join	sportsorganization
+query	109	los angeles lakers win	sportsorganization
+query	110	major league baseball announce retirement	sportsorganization
+query	111	maroon 5 perform ballad	musicgroup
+query	112	maybelline buy makeup	company
+query	113	miami heat win the championship	sportsorganization
+query	114	motorola unlock motorola c975	corporation
+query	115	nvidia take complaint	company
+query	116	people for the ethical treatment of animals treat animals	ngo
+query	117	pga tour win tournament	sportsorganization
+query	118	singapore airlines operate route	airline
+query	119	tiscali get insurance	corporation
+query	120	visa inc. extend visa	corporation
+query	121	walmart apply for a job	corporation
+query	122	university of houston apply for a job	collegeoruniversity
+query	123	abraham lincoln work lawyer	person
+query	124	alan turing pass a turing test	person
+query	125	aristotle discover secrets	person
+query	126	barbie hsu study relationship	person
+query	127	batman play villain	person
+query	128	british royal family idolise family	person
+query	129	diana ross sings jazz	person
+query	130	jason kidd provide scoring	person
+query	131	jean-claude van damme splits	person
+query	132	jesus died on a tree	person
+query	133	johann sebastian bach listen	person
+query	134	kathy griffin watch premiere	person
+query	135	luther vandross left money	person
+query	136	pope benedict xvi visit pope	person
+query	137	prince charming become man	person
+query	138	roger federer win season	person
+query	139	samuel beckett find hidden talent	person
+query	140	serena williams beat niculescu	person
+query	141	tink sing music	person
+query	142	tony robbins live with passion	person
+query	143	vin diesel become warming	person
+query	144	acapulco hold mesino	place
+query	145	angola take crudes	place
+query	146	british columbia establish welfare	place
+query	147	chennai fire naphtha	place
+query	148	cincinnati buy a beginner drum set	place
+query	149	dormitory provide meals	accommodation
+query	150	egypt visit	place
+query	151	egyptian pyramids build	touristattoraction
+query	152	finland go	place
+query	153	glasgow look for a job	place
+query	154	greece live in greece	place
+query	155	hawaii use wireless	place
+query	156	himalayas go on a trek	place
+query	157	iran discuss iran threat	place
+query	158	kansas city locate	place
+query	159	kelowna get into a bar in kelowna	place
+query	160	kings island	entertainmentbusiness
+query	161	lake of the ozarks reach lake	bodyofwater
+query	162	melbourne migrate	place
+query	163	mombasa compare to other african city	place
+query	164	mount everest climb	mountain
+query	165	north korea see local laws and customs	place
+query	166	prague stay at the carlton hotel prague	place
+query	167	punta cana book vacation	place
+query	168	rocky mountains find	mountain
+query	169	san francisco international airport leave	place
+query	170	saudi arabia drive a car	place
+query	171	south india develop	place
+query	172	sudan get a greencard	place
+query	173	tehran get some scenic views over tehran	place
+query	174	times square performs live in times square	place
+query	175	trinidad and tobago visit trinidad tobago from nigeria	place
+query	176	west indies take deliveries	place
+query	177	lager make	product
+query	178	pretzel have	product
+query	179	beetroot cook	product
+query	180	boric acid produce	product
+query	181	buttermilk make pancake	product
+query	182	chess play chess on internet	product
+query	183	chrysler neon fix	car
+query	184	clenbuterol take	product
+query	185	copper clean copper pan	product
+query	186	dairy product buy raw milk product	product
+query	187	diet coke drink	product
+query	188	diet drink drink diet soda if have diabetes	product
+query	189	ethernet hub switch off	product
+query	190	ford aerostar buy	car
+query	191	french horn play	product
+query	192	gear stick drive a manual transmission	product
+query	193	goat meat refrigerate	product
+query	194	guitar amplifier recommend	product
+query	195	hair dryer use	product
+query	196	handbag sell	product
+query	197	hard disk drive connect to the computer	product
+query	198	heart rate monitor hear baby heartbeat	product
+query	199	hollywood video download	product
+query	200	hybrid vehicle build	vehicle
+query	201	imac recognize by xp computer	product
+query	202	jet ski rent a jet ski	product
+query	203	laundry detergent wash	product
+query	204	lincoln town car drive	car
+query	205	macbook pro upgrade	product
+query	206	marmite get a large jar	product
+query	207	mentos make mentos react with coke	product
+query	208	metal gear solid know	product
+query	209	nutella make dessert	product
+query	210	pocket watch have a golden pocket watch	product
+query	211	porsche 911 make faster	car
+query	212	replacement window install	product
+query	213	stained glass cut	product
+query	214	automotive battery recharge	product
+query	215	banana bread bake	product
+query	216	barbecue sauce serve	product
+query	217	camcorder buy a dvd camcorder	product
+query	218	central heating replace	product
+query	219	chardonnay indicate popularity	product
+query	220	eye shadow remove mascara	product
+query	221	eyelash extensions put on fake eyelash	product
+query	222	lacquer use acrylic paint	product
+query	223	lockheed c-5 galaxy make	vehicle
+query	224	mason jar hold tea	product
+query	225	refrigerator freeze	product
+query	226	submarine sandwich look for the recipe	product
+query	227	volkswagen passat remove the door panel	car
+query	228	apple cider drink	product
+query	229	labrador retriever keep	thing
